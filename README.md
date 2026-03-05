@@ -1,4 +1,3 @@
-# Server Analyzer System
 
 ## Project Description
 
@@ -20,6 +19,10 @@ It helps administrators track server status, manage data, and analyze system act
 * Performance Analysis
 * Data Management
 * Responsive User Interface
+
+## Project Screenshots
+Login Page
+<img width="1912" height="990" alt="image" src="https://github.com/user-attachments/assets/45c3ec5b-0418-45e5-a2e7-33797c2a3fee" />
 
 ## Installation
 
