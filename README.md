@@ -14,6 +14,7 @@ It helps administrators track server status, manage data, and analyze system act
 
 ## Features
 
+* Apply the Motion, Animation to Image , background Motion 
 * Secure Login Page
 * Server Monitoring Dashboard
 * Performance Analysis
